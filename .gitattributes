@@ -1,0 +1,6 @@
+# Only the addon goes into Godot Asset Library downloads
+/.github export-ignore
+/tools export-ignore
+/.gitattributes export-ignore
+/.gitignore export-ignore
+* text=auto eol=lf
